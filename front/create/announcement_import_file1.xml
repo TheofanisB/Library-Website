@@ -1,0 +1,43 @@
+<announcements>
+	
+	<announcement>
+		<type>book</type>
+		<title>BOOK</title>
+		<year>1996</year>
+		<note>HELLO</note>
+		<month>05</month>
+		<url>www.book.com</url>
+		<announcement_key>0102</announcement_key>
+	</announcement>
+	
+	<announcement>
+		<type>inbook</type>
+		<title>InBook</title>
+		<year>1994</year>
+		<note>HI</note>
+		<month>04</month>
+		<url>www.inbook.tr</url>
+		<announcement_key>0201</announcement_key>
+	</announcement>
+	
+	<announcement>
+		<type>workshop</type>
+		<title>WORKSHOP</title>
+		<year>2000</year>
+		<note>GoodBye</note>
+		<month>12</month>
+		<url>www.workshop.gr</url>
+		<announcement_key>1020</announcement_key>
+	</announcement>
+	
+	<announcement>
+		<type>article</type>
+		<title>ARTICLE</title>
+		<year>2015</year>
+		<note>WELCOME</note>
+		<month>09</month>
+		<url>www.article.gr</url>
+		<announcement_key>2010</announcement_key>
+	</announcement>
+	
+</announcements>
